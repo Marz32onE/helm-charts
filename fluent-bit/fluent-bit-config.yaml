@@ -49,7 +49,7 @@ data:
             Logstash_Prefix k8s
             Retry_Limit False
             HTTP_User admin
-            HTTP_Passwd bebe@vmFBE10
+            HTTP_Passwd marz32one@GG
             Suppress_Type_Name On
             tls On
             tls.verify Off
@@ -62,7 +62,7 @@ data:
             Logstash_Prefix node
             Retry_Limit False
             HTTP_User admin
-            HTTP_Passwd bebe@vmFBE10
+            HTTP_Passwd marz32one@GG
             Suppress_Type_Name On
             tls On
             tls.verify Off
