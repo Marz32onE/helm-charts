@@ -107,7 +107,7 @@ config:
   opensearch_dashboards.yml: |
     opensearch:
       username: admin
-      password: bebe@vmFBE10
+      password: marz32one@GG
       ssl:
         verificationMode: none
   #  opensearch_dashboards.yml:
